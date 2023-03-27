@@ -43,7 +43,7 @@ and they achieve a high accuracy in reconstructing obfuscated faces, especially 
 ## Files
 
 The following files are included in this project:
-- `eu_co2_emissions.csv`: The raw dataset downloaded from Our World in Data.
+- `Models.ipynb`: This file show a brief summary of the structure of the three models.
 - `arima_forecasts.Rmd`: The R Markdown file containing the code and explanations for the ARIMA forecasts.
 - `arima_forecasts.html`: The HTML output of the R Markdown file.
 - `README.md`: This file containing information about the project.
