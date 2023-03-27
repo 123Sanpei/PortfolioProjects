@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* CSS styles for the README file */
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    h1, h2, h3 {
+      font-weight: bold;
+    }
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+    h2 {
+      font-size: 28px;
+      margin-bottom: 16px;
+    }
+    h3 {
+      font-size: 24px;
+      margin-bottom: 12px;
+    }
+    p, ul {
+      margin-bottom: 16px;
+    }
+    ul li {
+      margin-left: 24px;
+      list-style: square;
+    }
+    code {
+      font-family: Consolas, monospace;
+      background-color: #f5f5f5;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
