@@ -20,4 +20,4 @@ The project uses SQL queries to extract and analyze data from the three tables:
 
 ## Conclusion
 
-The project has successfully explored the COVID-19 dataset using SQL queries and provided insights into the global impact of COVID-19. The project also demonstrated the importance of data preprocessing, exploration, and visualization in understanding complex datasets.
+The project has successfully explored the COVID-19 dataset using SQL queries and provided insights into the global impact of COVID-19. Overall, this project provides a comprehensive view of the COVID-19 pandemic and its impact on different countries
