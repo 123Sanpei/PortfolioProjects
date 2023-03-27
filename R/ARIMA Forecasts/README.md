@@ -17,7 +17,7 @@ Finally, we make predictions for the future 9 years using ARIMA models.
 
 ## Conclusion
 The analysis showed that the ARIMA model could accurately forecast the CO2 emissions of the EU member states and the EU as a whole. 
-The forecasts suggested that the EU countries may not be able to achieve the 55% reduction target by 2030, based on their current emissions trends.
+Based on current emissions trends, the forecasts suggested that the EU countries may not be able to achieve the 55% reduction target by 2030, as only 7 of them can reach a reduction of at least 55%.
 
 However, this project only considers the historical data and does not take into account any future policies or changes that may affect CO2 emissions, 
 therefore, the 55% objective could still be achieved with targeted policies and interventions.
