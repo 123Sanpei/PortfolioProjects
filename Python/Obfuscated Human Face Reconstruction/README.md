@@ -15,11 +15,11 @@ using PSNR and SSIM also as evaluation metrics of the quality of the image recon
 
 This project is inspired by prior work on image reconstruction tasks and Single Image Super-Resolution, but the main inspiration comes from:
 
--Hang Zhao et al. - "Loss Functions for Image Restoration with Neural Networks" (2018)
+-[Hang Zhao et al. - "Loss Functions for Image Restoration with Neural Networks" (2018)](https://arxiv.org/pdf/1511.08861.pdf)
 
--Jacob Conrad Trinidad - "Reconstructing Obfuscated Human Faces" (2017)
+-[Jacob Conrad Trinidad - "Reconstructing Obfuscated Human Faces" (2017)](http://cs231n.stanford.edu/reports/2017/pdfs/223.pdf)
 
--Ledig, et al. - "Photo-realistic Single Image Super-resolution using a Generative Adversarial Network" (2017)
+-[Ledig, et al. - "Photo-realistic Single Image Super-resolution using a Generative Adversarial Network" (2017)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
 
 Two of my three models will be a slightly modified version of the models used in the last two papers, 
 so we have one model made for Image SR tasks and one made for obfuscated human face reconstruction.
