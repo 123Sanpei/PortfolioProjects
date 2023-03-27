@@ -40,7 +40,7 @@ These sets are then preprocessed using Min-Max Scaling to scale the pixel values
 The models are then trained on the two dataset using the 5 loss functions described before,
 and they achieve a high accuracy in reconstructing obfuscated faces, especially when SSIM and SSIM+PSNR are used as loss functions.
 
-More details are described in the report of the project in the file `Report.pdf`
+More details are listed in the report of the project in the file `Report.pdf`
 
 ## Files
 
