@@ -9,16 +9,17 @@ The goal of this project is to clean and preprocess the NashvilleHousing.csv dat
 
 To clean the dataset, we used SQL queries to:
 
--Remove duplicates and invalid data using `DISTINCT`, `WHERE`, and `LIKE`   clauses
+-Handled empty cells by replacing them with NULL values
 
--Handle missing values by replacing them with the mean, median, or mode using `CASE` statements and aggregate functions such as `AVG()`, `COUNT()`, and `MAX()`
+-Convert data types using `STR_TO_DATE()`, `REPLACE()` and `ALTER TABLE` + `CHANGE COLUMN`
 
--Normalize and standardize the data using `JOIN` statements and subqueries
+-Breaking out Address into Individual Columns using `SUBSTRING()`
 
--Convert data types using `CAST()` and `CONVERT` functions
+-Handled invalid entries using `CASE()`
 
+-Remove duplicates using `ROW_NUMBER() OVER()` and `PARTITION BY`
 
-We also used `SELECT` statements to extract relevant columns and create new derived columns that provide more meaningful insights into the data.
+I also used `SELECT` statements to extract relevant columns and create new derived columns that provide more meaningful insights into the data.
 
 ## Conclusion
 
