@@ -40,13 +40,15 @@ These sets are then preprocessed using Min-Max Scaling to scale the pixel values
 The models are then trained on the two dataset using the 5 loss functions described before,
 and they achieve a high accuracy in reconstructing obfuscated faces, especially when SSIM and SSIM+PSNR are used as loss functions.
 
+More details are described in the report of the project in the file `Report.pdf`
+
 ## Files
 
 The following files are included in this project:
 - `Models.ipynb`: This file show a brief summary of the structure of the three models.
-- `arima_forecasts.Rmd`: The R Markdown file containing the code and explanations for the ARIMA forecasts.
-- `arima_forecasts.html`: The HTML output of the R Markdown file.
-- `README.md`: This file containing information about the project.
+- `Obfuscated_Human_Face_Reconstruction.ipynb` and `obfuscated_human_face_reconstruction.py`: .ipynb and .py versions of the full code.
+- `Presentation.pdf`: Presentation of the full project made for the exam of the course.
+- `Report.pdf`: Full report of the project.
 
 ## Conclusion
 
