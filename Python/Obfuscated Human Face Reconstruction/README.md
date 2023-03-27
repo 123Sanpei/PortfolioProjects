@@ -28,9 +28,10 @@ The third model is instead a very simple CNN which is going to be used as baseli
 ## Dataset
 
 For this project I have used the Labeled Faces in the Wild dataset. This dataset contains 13,233 images collected from the web divided between pictures of 
-5,749 different people. A benefit of using this dataset is that the images are already processed to have the faces fully captured and centered around the image.
-Due to Google Colab restrictions on RAM and GPU usage, I decided to use only 2500 images, which were randomly split into 2000 training samples and 500 testing samples. 
-Then I obfuscated each image indipendently using two methods: pixelation, also known as mosaicking, and Gaussian blurs. 
+5,749 different people. A benefit of using this dataset is that the images are already processed to have the faces fully captured and centered around the
+image.
+
+Due to Google Colab restrictions on RAM and GPU usage, I decided to use only 2500 images, which were randomly split into 2000 training samples and 500 testing samples. Then I obfuscated each image indipendently using two methods: pixelation, also known as mosaicking, and Gaussian blurs. 
 
 ## Implementation Details
 
