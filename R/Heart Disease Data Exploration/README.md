@@ -19,5 +19,5 @@ The project uses R to perform data exploration and analysis on the dataset. The 
 
 ## Conclusion
 
-The analysis showed that certain demographic and health-related factors, such as age, gender, blood pressure, cholesterol levels, and smoking status, 
-were strongly associated with the likelihood of heart disease.
+The analysis showed that certain demographic and health-related factors, such as age, gender, general health, sleep time and smoking status, 
+tend to be more associated with the likelihood of heart disease.
