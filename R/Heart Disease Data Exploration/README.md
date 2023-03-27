@@ -7,7 +7,7 @@ collected through the annual CDC survey. The aim of the project is to analyze th
 
 The analysis was conducted using R programming language, along with various packages such as dplyr, ggplot2, and scale.
 
-## Implementation Details
+## Analysis Steps
 
 The project uses R to perform data exploration and analysis on the dataset. The following steps were taken:
 
