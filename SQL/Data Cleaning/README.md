@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<head>
-  <link rel="stylesheet" href="path/to/your/css/file.css">
-</head>
+
 <body>
   <h1>Data Cleaning Project on NashvilleHousing.csv</h1>
 
