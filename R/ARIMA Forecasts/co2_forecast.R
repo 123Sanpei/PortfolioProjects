@@ -14,85 +14,85 @@ View(data)
 # Read all the countries
 
 ITA = tail(data[data$Code %in% c("ITA"),], 52)
-co2_ITA = ts(ITA$Annual.COâ...emissions, start=1970)
+co2_ITA = ts(ITA$Annual.COÃ¢...emissions, start=1970)
 FRA = tail(data[data$Code %in% c("FRA"),], 52)
-co2_FRA = ts(FRA$Annual.COâ...emissions, start=1970)
+co2_FRA = ts(FRA$Annual.COÃ¢...emissions, start=1970)
 GER = tail(data[data$Code %in% c("DEU"),], 52)
-co2_GER = ts(GER$Annual.COâ...emissions, start=1970)
+co2_GER = ts(GER$Annual.COÃ¢...emissions, start=1970)
 SPA = tail(data[data$Code %in% c("ESP"),], 52)
-co2_SPA = ts(SPA$Annual.COâ...emissions, start=1970)
+co2_SPA = ts(SPA$Annual.COÃ¢...emissions, start=1970)
 PRT = tail(data[data$Code %in% c("PRT"),], 52)
-co2_PRT = ts(PRT$Annual.COâ...emissions, start=1970)
+co2_PRT = ts(PRT$Annual.COÃ¢...emissions, start=1970)
 DEN = tail(data[data$Code %in% c("DNK"),], 52)
-co2_DEN = ts(DEN$Annual.COâ...emissions, start=1970)
+co2_DEN = ts(DEN$Annual.COÃ¢...emissions, start=1970)
 SWE = tail(data[data$Code %in% c("SWE"),], 52)
-co2_SWE = ts(SWE$Annual.COâ...emissions, start=1970)
+co2_SWE = ts(SWE$Annual.COÃ¢...emissions, start=1970)
 BEL = tail(data[data$Code %in% c("BEL"),], 52)
-co2_BEL = ts(BEL$Annual.COâ...emissions, start=1970)
+co2_BEL = ts(BEL$Annual.COÃ¢...emissions, start=1970)
 NLD = tail(data[data$Code %in% c("NLD"),], 52)
-co2_NLD = ts(NLD$Annual.COâ...emissions, start=1970)
+co2_NLD = ts(NLD$Annual.COÃ¢...emissions, start=1970)
 LUX = tail(data[data$Code %in% c("LUX"),], 52)
-co2_LUX = ts(LUX$Annual.COâ...emissions, start=1970)
+co2_LUX = ts(LUX$Annual.COÃ¢...emissions, start=1970)
 IRL = tail(data[data$Code %in% c("IRL"),], 52)
-co2_IRL = ts(IRL$Annual.COâ...emissions, start=1970)
+co2_IRL = ts(IRL$Annual.COÃ¢...emissions, start=1970)
 MLT = tail(data[data$Code %in% c("MLT"),], 52)
-co2_MLT = ts(MLT$Annual.COâ...emissions, start=1970)
+co2_MLT = ts(MLT$Annual.COÃ¢...emissions, start=1970)
 #GBR = tail(data[data$Code %in% c("GBR"),], 52)
-#co2_GBR = ts(GBR$Annual.COâ...emissions, start=1970)
+#co2_GBR = ts(GBR$Annual.COÃ¢...emissions, start=1970)
 
 AUS = tail(data[data$Code %in% c("AUT"),], 52)
-co2_AUS = ts(AUS$Annual.COâ...emissions, start=1970)
+co2_AUS = ts(AUS$Annual.COÃ¢...emissions, start=1970)
 SVN = tail(data[data$Code %in% c("SVN"),], 52)
-co2_SVN = ts(SVN$Annual.COâ...emissions, start=1970)
+co2_SVN = ts(SVN$Annual.COÃ¢...emissions, start=1970)
 CZE = tail(data[data$Code %in% c("CZE"),], 52)
-co2_CZE = ts(CZE$Annual.COâ...emissions, start=1970)
+co2_CZE = ts(CZE$Annual.COÃ¢...emissions, start=1970)
 SVK = tail(data[data$Code %in% c("SVK"),], 52)
-co2_SVK = ts(SVK$Annual.COâ...emissions, start=1970)
+co2_SVK = ts(SVK$Annual.COÃ¢...emissions, start=1970)
 POL = tail(data[data$Code %in% c("POL"),], 52)
-co2_POL = ts(POL$Annual.COâ...emissions, start=1970)
+co2_POL = ts(POL$Annual.COÃ¢...emissions, start=1970)
 FIN = tail(data[data$Code %in% c("FIN"),], 52)
-co2_FIN = ts(FIN$Annual.COâ...emissions, start=1970)
+co2_FIN = ts(FIN$Annual.COÃ¢...emissions, start=1970)
 LIT = tail(data[data$Code %in% c("LTU"),], 52)
-co2_LIT = ts(LIT$Annual.COâ...emissions, start=1970)
+co2_LIT = ts(LIT$Annual.COÃ¢...emissions, start=1970)
 EST = tail(data[data$Code %in% c("EST"),], 52)
-co2_EST = ts(EST$Annual.COâ...emissions, start=1970)
+co2_EST = ts(EST$Annual.COÃ¢...emissions, start=1970)
 LET = tail(data[data$Code %in% c("LVA"),], 52)
-co2_LET = ts(LET$Annual.COâ...emissions, start=1970)
+co2_LET = ts(LET$Annual.COÃ¢...emissions, start=1970)
 HUN = tail(data[data$Code %in% c("HUN"),], 52)
-co2_HUN = ts(HUN$Annual.COâ...emissions, start=1970)
+co2_HUN = ts(HUN$Annual.COÃ¢...emissions, start=1970)
 CRO = tail(data[data$Code %in% c("HRV"),], 52)
-co2_CRO = ts(CRO$Annual.COâ...emissions, start=1970)
+co2_CRO = ts(CRO$Annual.COÃ¢...emissions, start=1970)
 BGR = tail(data[data$Code %in% c("BGR"),], 52)
-co2_BGR = ts(BGR$Annual.COâ...emissions, start=1970)
+co2_BGR = ts(BGR$Annual.COÃ¢...emissions, start=1970)
 ROM = tail(data[data$Code %in% c("ROU"),], 52)
-co2_ROM = ts(ROM$Annual.COâ...emissions, start=1970)
+co2_ROM = ts(ROM$Annual.COÃ¢...emissions, start=1970)
 GRC = tail(data[data$Code %in% c("GRC"),], 52)
-co2_GRC = ts(GRC$Annual.COâ...emissions, start=1970)
+co2_GRC = ts(GRC$Annual.COÃ¢...emissions, start=1970)
 CYP = tail(data[data$Code %in% c("CYP"),], 52)
-co2_CYP = ts(CYP$Annual.COâ...emissions, start=1970)
+co2_CYP = ts(CYP$Annual.COÃ¢...emissions, start=1970)
 
 EU = tail(data[data$Entity %in% c("European Union (27)"),], 52)
-co2_EU = ts(EU$Annual.COâ...emissions, start=1970)
+co2_EU = ts(EU$Annual.COÃ¢...emissions, start=1970)
 co2_EU1990 = co2_EU[21]
 
 
 fig_WEU <- plot_ly()
-fig_WEU <- fig_WEU %>% add_lines(data=ITA, x = ~Year, y = ~Annual.COâ...emissions,
+fig_WEU <- fig_WEU %>% add_lines(data=ITA, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Italy', type = 'scatter', mode = 'lines', 
                                  line = list(color = 'green', width = 2))
-fig_WEU <- fig_WEU %>% add_lines(data=SPA, x = ~Year, y = ~Annual.COâ...emissions,
+fig_WEU <- fig_WEU %>% add_lines(data=SPA, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Spain', type = 'scatter', mode = 'lines', 
                                  line = list(color = 'yellow', width = 2))
-fig_WEU <- fig_WEU %>% add_lines(data=SWE, x = ~Year, y = ~Annual.COâ...emissions,
+fig_WEU <- fig_WEU %>% add_lines(data=SWE, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Sweden', type = 'scatter', mode = 'lines', 
                                  line = list(color = '000033', width = 2))
-fig_WEU <- fig_WEU %>% add_lines(data=FRA, x = ~Year, y = ~Annual.COâ...emissions,
+fig_WEU <- fig_WEU %>% add_lines(data=FRA, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'France', type = 'scatter', mode = 'lines', 
                                  line = list(color = 'blue', width = 2))
-fig_WEU <- fig_WEU %>% add_lines(data=GER, x = ~Year, y = ~Annual.COâ...emissions,
+fig_WEU <- fig_WEU %>% add_lines(data=GER, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Germany', type = 'scatter', mode = 'lines', 
                                  line = list(color = 'black', width = 2))
-fig_WEU <- fig_WEU %>% add_lines(data=IRL, x = ~Year, y = ~Annual.COâ...emissions,
+fig_WEU <- fig_WEU %>% add_lines(data=IRL, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Ireland', type = 'scatter', mode = 'lines', 
                                  line = list(color = '00cc00', width = 2))
 fig_WEU <- fig_WEU %>% layout(title = "Annual CO2 emissions- Western Europe",
@@ -100,22 +100,22 @@ fig_WEU <- fig_WEU %>% layout(title = "Annual CO2 emissions- Western Europe",
                               yaxis = list (title = "CO2 emissions in tonnes"))
 
 fig_EEU <- plot_ly()
-fig_EEU <- fig_EEU %>% add_lines(data=AUS, x = ~Year, y = ~Annual.COâ...emissions,
+fig_EEU <- fig_EEU %>% add_lines(data=AUS, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Austria', type = 'scatter', mode = 'lines', 
                                  line = list(color = 'FFCC00', width = 2))
-fig_EEU <- fig_EEU %>% add_lines(data=CZE, x = ~Year, y = ~Annual.COâ...emissions,
+fig_EEU <- fig_EEU %>% add_lines(data=CZE, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Czechia', type = 'scatter', mode = 'lines', 
                                  line = list(color = '996600', width = 2))
-fig_EEU <- fig_EEU %>% add_lines(data=LIT, x = ~Year, y = ~Annual.COâ...emissions,
+fig_EEU <- fig_EEU %>% add_lines(data=LIT, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Lithuania', type = 'scatter', mode = 'lines', 
                                  line = list(color = 'cc0099', width = 2))
-fig_EEU <- fig_EEU %>% add_lines(data=CYP, x = ~Year, y = ~Annual.COâ...emissions,
+fig_EEU <- fig_EEU %>% add_lines(data=CYP, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Cyprus', type = 'scatter', mode = 'lines', 
                                  line = list(color = '000033', width = 2))
-fig_EEU <- fig_EEU %>% add_lines(data=POL, x = ~Year, y = ~Annual.COâ...emissions,
+fig_EEU <- fig_EEU %>% add_lines(data=POL, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Poland', type = 'scatter', mode = 'lines', 
                                  line = list(color = 'ff0033', width = 2))
-fig_EEU <- fig_EEU %>% add_lines(data=BGR, x = ~Year, y = ~Annual.COâ...emissions,
+fig_EEU <- fig_EEU %>% add_lines(data=BGR, x = ~Year, y = ~Annual.COÃ¢...emissions,
                                  name = 'Bulgaria', type = 'scatter', mode = 'lines', 
                                  line = list(color = '660000', width = 2))
 fig_EEU <- fig_EEU %>% layout(title = "Annual CO2 emissions- Eastern Europe",
@@ -149,6 +149,8 @@ Ratio <- function(model, co2_EU1990) {
 # Arima Forecast
 
 # Sum of the singular reductions compared to 1990's level = 38.86%
+# Number of country with reduction >=55% : 7
+
 #### ITALY ####
 # 1990 emissions: 439,549,820
 # Forecasted mean emissions: 267,748,471
