@@ -18,7 +18,7 @@
     <li>Convert data types using <code>CAST()</code> and <code>CONVERT()</code> functions</li>
   </ul>
 
-  <p>We also used <code>SELECT</code> statements to extract relevant columns and create new derived columns that provide more meaningful insights into the data. Finally, we exported the cleaned dataset to a new CSV file for further analysis using other tools and technologies.</p>
+  <p>We also used <code>SELECT</code> statements to extract relevant columns and create new derived columns that provide more meaningful insights into the data.</p>
 
   <h2>Project Files</h2>
 
