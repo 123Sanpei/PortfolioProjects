@@ -35,7 +35,7 @@ Due to Google Colab restrictions on RAM and GPU usage, I decided to use only 250
 
 ## Implementation Details
 
-The project is implemented in Python and uses the Keras deep learning library for building and training the CNN. 
+The project is implemented in Python and uses the Keras deep learning library for building and training the CNNs. 
 The datasets used for training and testing the models are the obfuscated face images obtained with the two methods, and their corresponding ground truth images.
 These sets are then preprocessed using Min-Max Scaling to scale the pixel values to the range [0,1].
 The models are then trained on the two dataset using the 5 loss functions described before,
