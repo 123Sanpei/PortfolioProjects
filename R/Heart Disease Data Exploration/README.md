@@ -1,6 +1,6 @@
 # Personal Key Indicators of Heart Disease Data Exploration with R
 
-This is part of a school project of the "Statistical Learning" course of the Padova University.
+This is part of a school project of the "Statistical Learning" course of the University of Padua.
 
 The goal of this project is to explore the [Personal Key Indicators of Heart Disease dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease) from Kaggle, which contains information on the health status of 400k US adults, 
 collected through the annual CDC survey. The aim of the project is to analyze the data and identify key indicators of heart disease.
