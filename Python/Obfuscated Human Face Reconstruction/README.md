@@ -1,6 +1,6 @@
 # Obfuscated Human Face Reconstruction
 
-This is a project made for the "Vision and Cognitive Systems" course of Padova University and investigates how distorted images of human faces 
+This is a project made for the "Vision and Cognitive Systems" course of the University of Padova and investigates how distorted images of human faces 
 can be recovered using Convolutional Neural Networks.
 
 Despite being the key factor in the network's learning, the loss function has received little attention from the image processing research community, as
