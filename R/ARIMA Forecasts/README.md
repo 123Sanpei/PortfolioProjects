@@ -1,5 +1,7 @@
 # ARIMA forecasts on EU CO2 emissions
 
+This is part of a school project for the "Business, Economic and Financial Data" course of the University of Padova.
+
 This project aims to forecast the CO2 emissions of the EU states using the Autoregressive Integrated Moving Average (ARIMA) model. 
 The data used for this analysis is sourced from [Our World in Data](https://ourworldindata.org/grapher/annual-co2-emissions-per-country?country=USA~GBR~IND~CHN~FRA~BRA~DEU) and consists of the CO2 emissions of every country from 1750 to 2021.
 
