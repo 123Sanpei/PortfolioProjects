@@ -32,4 +32,10 @@ The tasks performed consists in:
 
 The project has successfully explored the COVID-19 dataset using SQL queries and provided insights into the global impact of COVID-19.
 
-Some results can be seen as Tableau Dashboard [here](https://public.tableau.com/app/profile/massimo.andreetta/viz/CovidItalyDashboard/Dashboard1#1)
+Some results can be seen as Tableau Dashboard using the following links:
+
+-[Italy Dashboard](https://public.tableau.com/app/profile/massimo.andreetta/viz/CovidItalyDashboard/Dashboard1#1)
+
+-[Countries Dashboard](https://public.tableau.com/app/profile/massimo.andreetta/viz/CovidCountriesDashboard/Dashboard2)
+
+-[Continents Dashboard](https://public.tableau.com/app/profile/massimo.andreetta/viz/CovidContinentsDashboard/Dashboard3)
