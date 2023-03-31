@@ -14,9 +14,9 @@ The script will scrape the following details:
 
 -Number of rating
 
-The project make use of the requests and BeautifulSoup libraries in Python to send an HTTP request to the Amazon product page,
-parse the HTML content of the page, and extract the required product details. Then it outputs a CSV file containing the scraped data plus a 
-Timestamp for the output in order to track when the data was collected.
+The project make use of the `requests`  and `BeautifulSoup` libraries in Python to send an HTTP request to the Amazon product page,
+parse the HTML content of the page, and extract the required product details. Then, it outputs a CSV file that can be read using `pandas` library, which 
+contains the scraped data plus a Timestamp in order to track when the data was collected.
 
 ## Conclusion
 
