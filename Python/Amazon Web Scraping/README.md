@@ -20,5 +20,4 @@ contains the scraped data plus a Timestamp in order to track when the data was c
 
 ## Conclusion
 
-This project can also be automated using `time.sleep(86400)` to update the CSV every 24h in order to see the daily changes of the product, which can be 
-eventually used to create a timeseries of the product.
+This project can also be automated using `time.sleep(86400)` to update the CSV every 24h in order to see the daily changes of the product, which can potentially  be used to create a timeseries of the product.
