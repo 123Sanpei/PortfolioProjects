@@ -1,6 +1,6 @@
 # Purchased Bikes Excel Project 
 
-The aim of the project was to analyze the data and gain insights about bike sales using Excel. 
+The aim of the project was to analyze the data and gain insights about bike sales using Excel in order to tailor marketing strategies and product offerings to better meet the needs of target customers.
 
 The dataset contains 13 columns with the following information:
 
@@ -17,6 +17,7 @@ The dataset contains 13 columns with the following information:
 - "Age": the age of the customer
 - "Purchased Bike": whether or not the customer purchased a bike, either "Yes" or "No"
 
+## Implementation Details
 The following steps were taken in the project:
 
 -Removed all the duplicate rows to ensure the data is clean and free of errors.
@@ -71,6 +72,6 @@ Customers with less than two children were more likely to purchase bikes compare
 
 Customers who had a shorter commute distance (0-1 miles) were more likely to purchase bikes compared to those with longer commutes. This is even more evident if we filter for European customers. This may be due to differences in transportation infrastructure or cultural preferences.
 
-Here, we can see a preview of the dashboard
+Here, you can see a preview of the dashboard
 
 ![d](Dashboard_Purchased_bike.png)
