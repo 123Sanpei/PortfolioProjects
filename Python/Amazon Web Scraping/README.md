@@ -6,13 +6,10 @@ The objective of this project is to scrape the product details of the Lenovo Ide
 
 The script will scrape the following details:
 
--Product title
-
--Price
-
--Rating
-
--Number of rating
+- Product title
+- Price
+- Rating
+- Number of rating
 
 The project make use of the `requests`  and `BeautifulSoup` libraries in Python to send an HTTP request to the Amazon product page,
 parse the HTML content of the page, and extract the required product details. Then, it outputs a CSV file that can be read using `pandas` library, which 
