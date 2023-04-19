@@ -1,6 +1,6 @@
 # Purchased Bikes Excel Project 
 
-The aim of the project was to analyze the data and gain insights about bike sales using Excel in order to tailor marketing strategies and product offerings to better meet the needs of target customers.
+The aim of the project was to analyze the data and gain insights about bike sales using Excel in order to tailor marketing strategies and product offerings to better meet the needs of target customers. 
 
 The dataset contains 13 columns with the following information:
 
@@ -46,15 +46,15 @@ The target variable was always the count of "Purchased Bike", except on the firs
 
 The project contains the following files:
 
-Purchased_bikes.xlsx: The Excel file containing the dataset,the pivot tables and the dashboard.
+`Purchased_bikes.xlsx`: The Excel file containing the dataset,the pivot tables and the dashboard.
 
-Dashboard_purchased_bikes.png: The image of the dashboard containing the charts and slicers.
+`Dashboard_purchased_bikes.png`: The image of the dashboard containing the charts and slicers.
 
 ## How to Use
 
 To use the project, follow these steps:
 
--Open the Purchased_bikes.xlsx file using Microsoft Excel.
+-Open the `Purchased_bikes.xlsx` file using Microsoft Excel.
 
 -Analyze the pivot tables to gain insights about bike sales.
 
