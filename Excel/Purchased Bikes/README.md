@@ -1,1 +1,1 @@
-[d](Dashboard_Purchased_bike.png)
+![d](Dashboard_Purchased_bike.png)
