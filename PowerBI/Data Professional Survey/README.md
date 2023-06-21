@@ -27,7 +27,7 @@ The dataset used in this project contains the following columns:
 - "Q11 - Which Country do you live in?": The country of residence of the survey respondent, either Canada, USA, UK, India or Other.
 - "Q12 - Highest Level of Education": The highest level of education completed by the survey respondent.
 - "Q13 - Ethnicity": The ethnicity of the survey respondent.
-- 
+
 In every "Other" answer it was also asked to specify in a text box the respondant actual answer.
 
 There were also 5 more columns ("Browser", "OS", "City", "Country", "Referrer") but they were empty so they were discarded immediately.
