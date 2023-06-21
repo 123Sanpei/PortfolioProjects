@@ -1,8 +1,8 @@
 # Purchased Bikes Excel Project 
 
-The aim of the project was to analyze the data and gain insights about bike sales using Excel in order to tailor marketing strategies and product offerings to better meet the needs of target customers. 
+The aim of the project was to expand the analisis of the tutorial project made by [Alex The Analist](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=28) and gain insights about bike sales using Excel.
 
-The dataset contains 13 columns with the following information:
+The dataset was obtained from [Alex The Analist's Tutorial](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) and contains 13 columns with the following information:
 
 - "ID": a unique identifier for each customer
 - "Marital Status": the marital status of the customer, either "M" for Married or "S" for Single
