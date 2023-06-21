@@ -1,6 +1,6 @@
 # Data Professionals Survey Power BI Project
 
-The aim of this Power BI project was to analyze survey data from data professionals made by [Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=42) in order to gain insights into their roles, salaries, satisfaction levels, preferences, and demographic information. The project aimed to expand the insights and the project complexity reached in the Tutorial by adding some Data Cleaning and transformation and by adding an extra page to the Power BI dashboard.
+The aim of this Power BI project was to analyze survey data from 630 data professionals made by [Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=42) in order to gain insights into their roles, salaries, satisfaction levels, preferences, and demographic information. The project aimed to expand the insights and the project complexity reached in the Tutorial by adding some Data Cleaning and transformation and by adding an extra page to the Power BI dashboard.
 
 The dataset used in this project contains the following columns:
 
@@ -55,16 +55,21 @@ The project contains the following files:
 
 ## Conclusion
 
-After analyzing the data, we found that the following factors appear to be associated with bike sales:
+After analyzing the data, we obtained the following insights:
 
-Customers in the age group of 31-45 were more likely to purchase bikes compared to other age groups. This suggests that middle-aged customers are more interested in biking as a means of transportation or exercise. 
+The majority of the respondents come from the US(261), India(73), UK(40) and Canada(32). Moreover, the industries they tend to work in are Tech(23.97%), Finance(15.4%), Healthcare(13.33%) and Education(6.03%)
 
-Customers with a bachelor's or graduate degree were more likely to purchase bikes compared to the other categories. This may indicate that customers with higher levels of education are more interested in fitness and outdoor activities. 
+Data Scientists are paid more than the other titles with an average salary of $94,423. However, it needs to be noted that this sample is made of only 26 survey takers, but if we filter by country, we can still see them on top of the chart in most of them. Unfortunately, this dataset is very imbalanced, as more than half of the respondents (381) are Data Analyst. They tend to have instead a lower salary of $55,297 on average. As expected, the lowest salary of $26,577 is associated with people that answered with "Student/Looking/Noone". 
 
-Customers with less than two children were more likely to purchase bikes compared to those with more. This suggests that customers with fewer children may have more time and disposable income to pursue leisure activities such as biking. 
+Despite the high income overall, the most important factor when considering a new job seems to be Higher Salary(297), followed by Remote Work(127) and Good Work/Life Balance(117). Even most of the Data Scientist voted for a better salary.
 
-Customers who had a shorter commute distance (0-1 miles) were more likely to purchase bikes compared to those with longer commutes. This is even more evident if we filter for European customers. This may be due to differences in transportation infrastructure or cultural preferences.
+The three industries with the highest average salary are Retail, Healthcare and Consulting while Telecommunication is the lowest with $40,295. Instead, the three countries with the highest average salary are the US, Canada and Australia while Argentina is the lowest with only $20,000. Moreover, only the threee country just mentioned have a salary over $50,000.
+
+The average salary doesn't seem to be influenced by the gender as men and women have, respectivelly, an average salary of 53,521 and 55,191. This split appears in every country except Australia where men earn $74,583 against $36,500 for women.
+
+The respondents are slightly satisfied with Coworker Relations, Learning Opportunities and Work/Life Balance. However, they are slightly unsatisfied with the upward mobility and their current salary as we saw before. This is expecially true for the Nigerian respondents as they have a satisfaction of only 1.58 out of 10. This is probably due to the fact they earn on average $21,734, second lowest salary per country, while the cost of life is higher compared to Argentina. The most satisfied are instead the German respondents with a value of 5.36.
 
 Here, you can see a preview of the dashboard
 
-![d](Dashboard_Purchased_bike.png)
+![d](Dashboard1.png)
+![d](Dashboard2.png)
