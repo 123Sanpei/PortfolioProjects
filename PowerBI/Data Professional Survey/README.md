@@ -1,6 +1,6 @@
 # Data Professionals Survey Power BI Project
 
-The aim of this Power BI project was to analyze survey data from data professionals made by [Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=42) in order to gain insights into their roles, salaries, satisfaction levels, preferences, and demographic information. The project aimed to expand the insights and the project complexity reached in the Tutorial by adding some Data Cleaning and Trasnformation and by adding an extra page to the Power BI dashboard.
+The aim of this Power BI project was to analyze survey data from data professionals made by [Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=42) in order to gain insights into their roles, salaries, satisfaction levels, preferences, and demographic information. The project aimed to expand the insights and the project complexity reached in the Tutorial by adding some Data Cleaning and transformation and by adding an extra page to the Power BI dashboard.
 
 The dataset used in this project contains the following columns:
 
