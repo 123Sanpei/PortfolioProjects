@@ -20,13 +20,13 @@ The dataset was obtained from [Alex The Analist's Tutorial](https://github.com/A
 ## Implementation Details
 The following steps were taken in the project:
 
--Removed all the duplicate rows to ensure the data is clean and free of errors.
+- Removed all the duplicate rows to ensure the data is clean and free of errors.
 
--Modified the values of the columns "Marital Status" and "Gender" by changing "M/S" into "Married/Single" and "M/F" into "Male/Female" to make them more explicative.
+- Modified the values of the columns "Marital Status" and "Gender" by changing "M/S" into "Married/Single" and "M/F" into "Male/Female" to make them more explicative.
 
--Created some age categories using nested IF function of Excel.
+- Created some age categories using nested IF function of Excel.
 
--Created four pivot tables to analyze the data:
+- Created four pivot tables to analyze the data:
 
 - "Average Income Per Gender"
 
@@ -38,9 +38,9 @@ The following steps were taken in the project:
         
 The target variable was always the count of "Purchased Bike", except on the first pivot table where it was the average income with "Purchased Bike" being the legend.
     
--Created a dashboard with charts created from the pivot tables.
+- Created a dashboard with charts created from the pivot tables.
     
--Added four slicers using the columns "Marital Status", "Region", "Education", "Occupation" to provide an interactive experience for the user.
+- Added four slicers using the columns "Marital Status", "Region", "Education", "Occupation" to provide an interactive experience for the user.
 
 ## Files
 
