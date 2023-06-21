@@ -36,9 +36,7 @@ There were also 5 more columns ("Browser", "OS", "City", "Country", "Referrer") 
 The following steps were taken in the project:
 
 - Data Cleaning: As mentioned before, all the "Other" answer contained also the specification of the alternative choosed by the respondent. Therefore, they had to be grouped in the same labels to address typos or different way to write the same thing. Certain columns were transformed to make them more granular by adding extra labels obtained from the "Other" category.
-
 For example, in the Industry column it was added "Retail", "Consulting", "Marketing", etc. as they were common enough to deserve their own category. I tried to avoid making new categories for very small samples, e.g. in the Country of Residence column there were only 2 danish respondents so they were left them in the "Other" category instead of creating a new one, as the insigths obtained by such small sample would have not been very reliable. Similar transformations were made in the column of the Current Job Title and in the column of the most important factor when considering a new job.
-
 Lastly, the values of the Average Salary column were transformed into actual averages by taking the mean value of the ratios that were provided in the survey as selectable answers. This was done to facilitate calculations
 
 - Data Analysis: Various visualizations and calculations were performed using Power BI to gain insights into the survey data. Key areas of analysis included salary distribution, job satisfaction, country of origin, difficulty in entering the data field, and more.
@@ -53,7 +51,7 @@ The project contains the following files:
 
 `Data professional Survey.pbix`: The Power BI file with the dashboard containing all the charts.
 
-`Dashboard1.png` and `Dashboard1.png`: Previews of the two pages od the dashboard.
+`Dashboard1.png` and `Dashboard2.png`: Previews of the two pages od the dashboard.
 
 ## Conclusion
 
